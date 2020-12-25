@@ -6,5 +6,6 @@
         "8 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/iQIYI.png, enabled=true",
         "10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/suning/suning.js, tag=苏宁签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/suning.png, enabled=true",
         "12 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_crazy_joy.js, tag=CrazyJoy任务, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+        "30 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_ms_redrain.js, tag=京东红包雨, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
     ]
 }
