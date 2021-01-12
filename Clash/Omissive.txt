@@ -1,6 +1,5 @@
 payload:
   # > Omissive
-  - '+.instagram'
   - '+.cloudflare.com'
   - '+.githubusercontent.com'
   - '+.transfun.net'
