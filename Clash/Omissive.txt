@@ -1,6 +1,6 @@
 payload:
-  # Omissive
-  - DOMAIN-KEYWORD,instagram
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,transfun.net
+  # > Omissive
+  - '+.instagram'
+  - '+.cloudflare.com'
+  - '+.githubusercontent.com'
+  - '+.transfun.net'
