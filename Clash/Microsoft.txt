@@ -1,7 +1,7 @@
 payload:
   # > Microsoft
   - '+.1drv'
-  - '+.microsoft'
+  - '+.microsoft.com'
   - '+.aadrm.com'
   - '+.acompli.com'
   - '+.acompli.net'
