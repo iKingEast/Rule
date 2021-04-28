@@ -1,0 +1,11 @@
+# > 联享家
+
+HOST-SUFFIX,kinglian.cn
+HOST-SUFFIX,youzanyun.com
+HOST-SUFFIX,youzan.com
+HOST-SUFFIX,pangolin.snssdk.com
+HOST-SUFFIX,bbs.hori-gz.com
+HOST-SUFFIX,mms.hori-gz.com
+HOST-SUFFIX,yxhd.hori-gz.com
+HOST-SUFFIX,ad.hori-gz.com
+HOST-SUFFIX,adfile.hori-gz.com
