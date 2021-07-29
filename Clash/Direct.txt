@@ -1,19 +1,18 @@
 payload:
-  - 'IP-CIDR,127.0.0.0/8,no-resolve'
-  - 'IP-CIDR,172.16.0.0/12,no-resolve'
-  - 'IP-CIDR,192.168.0.0/16,no-resolve'
-  - 'IP-CIDR,10.0.0.0/8,no-resolve'
-  - 'IP-CIDR,17.0.0.0/8,no-resolve'
-  - 'IP-CIDR,100.64.0.0/10,no-resolve'
-  - 'IP-CIDR,89.208.249.13/32,no-resolve'
-  - 'IP-CIDR,74.120.171.213/32,no-resolve'
-  - 'DOMAIN-KEYWORD,binancezh'
-  - 'DOMAIN-SUFFIX,local'
-  - 'DOMAIN-SUFFIX,seagate.com'
-  - 'DOMAIN-SUFFIX,digitalocean.com'
-  - 'DOMAIN-SUFFIX,giacn.tk'
-  - 'DOMAIN-SUFFIX,usfmt.top'
-  - 'DOMAIN-SUFFIX,64clouds.com'
-  - 'DOMAIN-SUFFIX,kxxzz.com'
-  - 'DOMAIN-SUFFIX,nfmovies.com'
+  - IP-CIDR,127.0.0.0/8,no-resolve
+  - IP-CIDR,172.16.0.0/12,no-resolve
+  - IP-CIDR,192.168.0.0/16,no-resolve
+  - IP-CIDR,10.0.0.0/8,no-resolve
+  - IP-CIDR,17.0.0.0/8,no-resolve
+  - IP-CIDR,100.64.0.0/10,no-resolve
+  - IP-CIDR,89.208.249.13/32,no-resolve
+  - IP-CIDR,74.120.171.213/32,no-resolve
+  - DOMAIN-KEYWORD,binancezh
+  - DOMAIN-SUFFIX,seagate.com
+  - DOMAIN-SUFFIX,digitalocean.com
+  - DOMAIN-SUFFIX,giacn.tk
+  - DOMAIN-SUFFIX,usfmt.top
+  - DOMAIN-SUFFIX,64clouds.com
+  - DOMAIN-SUFFIX,kxxzz.com
+  - DOMAIN-SUFFIX,nfmovies.com
   
