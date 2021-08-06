@@ -1,6 +1,10 @@
 # > 联享家
-  DOMAIN,pangolin.snssdk.com
   DOMAIN-SUFFIX,kinglian.cn
   DOMAIN-SUFFIX,youzanyun.com
   DOMAIN-SUFFIX,youzan.com
-  DOMAIN-SUFFIX,hori-gz.com
+  DOMAIN,pangolin.snssdk.com
+  DOMAIN,bbs.hori-gz.com
+  DOMAIN,mms.hori-gz.com
+  DOMAIN,yxhd.hori-gz.com
+  DOMAIN,ad.hori-gz.com
+  DOMAIN,adfile.hori-gz.com
