@@ -49,4 +49,7 @@ payload:
   # > Umeng
   - DOMAIN,msg.umeng.com
   - DOMAIN,msg.umengcloud.com
+  # > Baidu
+  - DOMAIN-SUFFIX,baidupcs.com
+  
   
