@@ -9,7 +9,6 @@ payload:
   - DOMAIN-SUFFIX,seagate.com
   - DOMAIN-SUFFIX,digitalocean.com
   - DOMAIN-SUFFIX,giacn.tk
-  - DOMAIN-SUFFIX,usfmt.top
   - DOMAIN-SUFFIX,kxxzz.com
   - DOMAIN-SUFFIX,nfmovies.com
   - DOMAIN,app.adjust.com
@@ -41,9 +40,7 @@ payload:
   # >> Paramount+
   - DOMAIN,pubads.g.doubleclick.net
   # > Tencent
-  - DOMAIN,fairplay.l.qq.com
-  - DOMAIN,livew.l.qq.com
-  - DOMAIN,vd.l.qq.com
+  - DOMAIN-SUFFIX,qq.com
   # > Strava
   - DOMAIN,analytics.strava.com
   # > Umeng
