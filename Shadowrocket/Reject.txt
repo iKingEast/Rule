@@ -9,5 +9,4 @@ DOMAIN,yxhd.hori-gz.com
 DOMAIN,ad.hori-gz.com
 DOMAIN,adfile.hori-gz.com
 DOMAIN,lxj.hori-gz.com
-DOMAIN,nfys.kinglian.cn
 DOMAIN,sso.lxjapp.com
