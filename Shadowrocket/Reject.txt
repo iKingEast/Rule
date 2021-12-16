@@ -3,5 +3,11 @@ DOMAIN-SUFFIX,youzanyun.com
 DOMAIN-SUFFIX,youzan.com
 DOMAIN-SUFFIX,53kf.com
 DOMAIN,pangolin.snssdk.com
-DOMAIN-SUFFIX,hori-gz.com
+DOMAIN,bbs.hori-gz.com
+DOMAIN,mms.hori-gz.com
+DOMAIN,yxhd.hori-gz.com
+DOMAIN,ad.hori-gz.com
+DOMAIN,adfile.hori-gz.com
+DOMAIN,file.hori-gz.com
+DOMAIN,lxj.hori-gz.com
 DOMAIN,sso.lxjapp.com
