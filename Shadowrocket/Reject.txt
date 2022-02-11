@@ -7,6 +7,7 @@ DOMAIN,bbs.hori-gz.com
 DOMAIN,mms.hori-gz.com
 DOMAIN,yxhd.hori-gz.com
 DOMAIN,ad.hori-gz.com
+DOMAIN,bd.hori-gz.com
 DOMAIN,adfile.hori-gz.com
 DOMAIN,file.hori-gz.com
 DOMAIN,lxj.hori-gz.com
