@@ -3,4 +3,5 @@ payload:
   - '+.cloudflare.com'
   - '+.githubusercontent.com'
   - '+.transfun.net'
+  - '+.bannedbook.org'
 
