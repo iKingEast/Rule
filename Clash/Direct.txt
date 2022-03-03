@@ -4,6 +4,8 @@ payload:
   - IP-CIDR,192.168.0.0/16,no-resolve
   - IP-CIDR,10.0.0.0/8,no-resolve
   - IP-CIDR,100.64.0.0/10,no-resolve
+  # > My
+  - DOMAIN-SUFFIX,64clouds.com
   - DOMAIN-KEYWORD,binancezh
   - DOMAIN-SUFFIX,bwh81.net
   - DOMAIN-SUFFIX,seagate.com
@@ -47,6 +49,4 @@ payload:
   - DOMAIN,msg.umeng.com
   - DOMAIN,msg.umengcloud.com
   # > Baidu
-  - DOMAIN-SUFFIX,baidupcs.com
-  
-  
+  - DOMAIN-SUFFIX,baidupcs.com  
