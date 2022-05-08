@@ -4,4 +4,4 @@ payload:
   - '+.githubusercontent.com'
   - '+.transfun.net'
   - '+.bannedbook.org'
-
+  - '+.ifixit.com'
