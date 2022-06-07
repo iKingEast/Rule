@@ -4,4 +4,5 @@ payload:
   - '+.githubusercontent.com'
   - '+.transfun.net'
   - '+.bannedbook.org'
+  - '+.zyxel.com'
 
