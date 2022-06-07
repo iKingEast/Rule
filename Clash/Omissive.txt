@@ -5,4 +5,5 @@ payload:
   - '+.transfun.net'
   - '+.bannedbook.org'
   - '+.zyxel.com'
+  - '+.ifixit.com'
 
