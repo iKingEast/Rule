@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,giacn.tk
   - DOMAIN-SUFFIX,kxxzz.com
   - DOMAIN-SUFFIX,nfmovies.com
+  - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN,app.adjust.com
   - DOMAIN,bdtj.tagtic.cn
   # > Alibaba
@@ -48,4 +49,4 @@ payload:
   - DOMAIN,msg.umeng.com
   - DOMAIN,msg.umengcloud.com
   # > Baidu
-  - DOMAIN-SUFFIX,baidupcs.com  
+  - DOMAIN-SUFFIX,baidupcs.com
