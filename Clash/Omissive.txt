@@ -6,5 +6,4 @@ payload:
   - '+.bannedbook.org'
   - '+.zyxel.com'
   - '+.ifixit.com'
-  - '+.tiktok.com'
 
