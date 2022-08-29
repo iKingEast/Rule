@@ -9,7 +9,6 @@ payload:
   - DOMAIN-SUFFIX,bwh81.net
   - DOMAIN-SUFFIX,seagate.com
   - DOMAIN-SUFFIX,digitalocean.com
-  - DOMAIN-SUFFIX,giacn.tk
   - DOMAIN-SUFFIX,kxxzz.com
   - DOMAIN-SUFFIX,nfmovies.com
   - DOMAIN,app.adjust.com
@@ -48,4 +47,4 @@ payload:
   - DOMAIN,msg.umeng.com
   - DOMAIN,msg.umengcloud.com
   # > Baidu
-  - DOMAIN-SUFFIX,baidupcs.com  
+  - DOMAIN-SUFFIX,baidupcs.com
