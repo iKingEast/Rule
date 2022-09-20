@@ -7,6 +7,9 @@ payload:
   # > My
   - DOMAIN-KEYWORD,binancezh
   - DOMAIN-SUFFIX,bwh81.net
+  - DOMAIN-SUFFIX,test-ipv6.com
+  - DOMAIN-SUFFIX,ipv6-test.ch
+  - DOMAIN-SUFFIX,ipv6-test.com
   - DOMAIN-SUFFIX,seagate.com
   - DOMAIN-SUFFIX,digitalocean.com
   - DOMAIN-SUFFIX,kxxzz.com
