@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,seagate.com
   - DOMAIN-SUFFIX,digitalocean.com
   - DOMAIN-SUFFIX,kxxzz.com
+  - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,nfmovies.com
   - DOMAIN,app.adjust.com
   - DOMAIN,bdtj.tagtic.cn
