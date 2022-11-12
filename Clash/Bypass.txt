@@ -1,6 +1,8 @@
 bypass:
   # 直连列表
   # MyList
+  - "kdslife.com"
+  - "*.kdslife.com"
   - "*.423down.com"
   - "*.bitwarden.com"
   - "*.chaipip.com"
@@ -48,6 +50,7 @@ bypass:
   # 58
   - "*.58.com"
   # Alibaba
+  - "1688.com"
   - "*.1688.com"
   - "*.aliapp.org"
   - "*.alibaba.com"
