@@ -6,6 +6,7 @@ payload:
   - IP-CIDR,100.64.0.0/10,no-resolve
   # > My
   - DOMAIN-KEYWORD,binancezh
+  - DOMAIN-SUFFIX,giacn.tk
   - DOMAIN-SUFFIX,myqnapcloud.com
   - DOMAIN-SUFFIX,bwh81.net
   - DOMAIN-SUFFIX,bing.com
