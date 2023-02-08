@@ -7,4 +7,5 @@ payload:
   - '+.zyxel.com'
   - '+.ifixit.com'
   - '+.bing.com'
+  - '+.bing.net'
 
