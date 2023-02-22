@@ -4,8 +4,11 @@ payload:
   - IP-CIDR,192.168.0.0/16,no-resolve
   - IP-CIDR,10.0.0.0/8,no-resolve
   - IP-CIDR,100.64.0.0/10,no-resolve
+  - IP-CIDR6,::1/128,no-resolve
+  - IP-CIDR6,fc00::/7,no-resolve
+  - IP-CIDR6,fe80::/10,no-resolve
+  - IP-CIDR6,fd00::/8,no-resolve
   # > My
-  - DOMAIN,edge.api.myqnapcloud.com
   - DOMAIN-KEYWORD,binancezh
   - DOMAIN-SUFFIX,myqnapcloud.com
   - DOMAIN-SUFFIX,bwh81.net
@@ -19,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,nfmovies.com
   - DOMAIN,app.adjust.com
   - DOMAIN,bdtj.tagtic.cn
+  - DOMAIN,edge.api.myqnapcloud.com
   # > Alibaba
   - DOMAIN,log.mmstat.com
   - DOMAIN,sycm.mmstat.com
