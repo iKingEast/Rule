@@ -5,6 +5,7 @@ payload:
   - IP-CIDR,10.0.0.0/8,no-resolve
   - IP-CIDR,100.64.0.0/10,no-resolve
   # > My
+  - DOMAIN,edge.api.myqnapcloud.com
   - DOMAIN-KEYWORD,binancezh
   - DOMAIN-SUFFIX,myqnapcloud.com
   - DOMAIN-SUFFIX,bwh81.net
