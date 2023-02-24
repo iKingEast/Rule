@@ -12,4 +12,3 @@ DOMAIN-SUFFIX,adfile.hori-gz.com
 DOMAIN-SUFFIX,file.hori-gz.com
 DOMAIN-SUFFIX,lxj.hori-gz.com
 DOMAIN-SUFFIX,sso.lxjapp.com
-DOMAIN,adashbc.ut.taobao.com
