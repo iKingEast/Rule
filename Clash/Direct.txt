@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,nfmovies.com
   - DOMAIN-SUFFIX,h3c.com
   - DOMAIN-SUFFIX,bjyfms.com
+  - DOMAIN-SUFFIX,h3cmall.com
   - DOMAIN,app.adjust.com
   - DOMAIN,bdtj.tagtic.cn
   - DOMAIN,edge.api.myqnapcloud.com
