@@ -13,6 +13,8 @@ bypass:
   - '*.hrtsea.com'
   - '*.laomo.me'
   - '*.mpyit.com'
+  - 'www.msyh5.com'
+  - '*.msyh5.com'
   # CN域名直连
   - '*.cn'
   - '*.中国'
