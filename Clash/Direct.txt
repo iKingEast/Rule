@@ -12,6 +12,7 @@ payload:
   - DOMAIN-KEYWORD,binancezh
   - DOMAIN-SUFFIX,myqnapcloud.com
   - DOMAIN-SUFFIX,bwh81.net
+  - DOMAIN-SUFFIX,hostbuf.com
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,ipv6-test.ch
   - DOMAIN-SUFFIX,ipv6-test.com
