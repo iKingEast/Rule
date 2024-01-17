@@ -12,6 +12,7 @@ payload:
   - DOMAIN-KEYWORD,binancezh
   - DOMAIN-SUFFIX,myqnapcloud.com
   - DOMAIN-SUFFIX,bwh81.net
+  - DOMAIN-SUFFIX,hostbuf.com
   - DOMAIN-SUFFIX,test-ipv6.com
   - DOMAIN-SUFFIX,ipv6-test.ch
   - DOMAIN-SUFFIX,ipv6-test.com
@@ -29,7 +30,7 @@ payload:
   # > Alibaba
   - DOMAIN,log.mmstat.com
   - DOMAIN,sycm.mmstat.com
-  # >> Paramount+
+  # > Paramount+
   - DOMAIN,pubads.g.doubleclick.net
   # > Tencent
   - DOMAIN-SUFFIX,qq.com

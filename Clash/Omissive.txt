@@ -1,6 +1,5 @@
 payload:
   # > Omissive
-  - '+.cloudflare.com'
   - '+.githubusercontent.com'
   - '+.transfun.net'
   - '+.bannedbook.org'
