@@ -1,0 +1,5 @@
+payload:
+  #Duboku
+  - DOMAIN-KEYWORD,boku
+  - DOMAIN-KEYWORD,dubo
+  - DOMAIN-KEYWORD,hibo
