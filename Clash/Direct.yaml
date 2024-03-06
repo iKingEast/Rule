@@ -10,6 +10,7 @@ payload:
   - IP-CIDR6,fd00::/8,no-resolve
   # > My
   - DOMAIN-KEYWORD,binancezh
+  - DOMAIN-SUFFIX,netflixgc.com
   - DOMAIN-SUFFIX,fiio.com
   - DOMAIN-SUFFIX,myqnapcloud.com
   - DOMAIN-SUFFIX,bwh81.net
