@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,netflixgc.com
   - DOMAIN-SUFFIX,fiio.com
   - DOMAIN-SUFFIX,myqnapcloud.com
+  - DOMAIN-SUFFIX,myqnapcloud.io
   - DOMAIN-SUFFIX,bwh81.net
   - DOMAIN-SUFFIX,hostbuf.com
   - DOMAIN-SUFFIX,test-ipv6.com
