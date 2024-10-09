@@ -29,6 +29,7 @@ payload:
   - DOMAIN,app.adjust.com
   - DOMAIN,bdtj.tagtic.cn
   - DOMAIN,edge.api.myqnapcloud.com
+  - DOMAIN,edge.myqnapcloud.io
   # > Alibaba
   - DOMAIN,log.mmstat.com
   - DOMAIN,sycm.mmstat.com
